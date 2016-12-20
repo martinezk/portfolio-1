@@ -1,11 +1,43 @@
 body {
-	background-color: paleturquoise;
+	background-color: #FFEFD5;
+	color: #696969;
+	padding: 10px;
 }
 h1{
-	font-family: 'IM Fell English', serif;
+	font-family: 'Bilbo', cursive;
+	font-size: 30px;
+	padding-bottom: 20px;
+	font-weight: bold;
 }
 section{
+	margin-top: 40px;
 	margin-left: auto;
 	margin-right: auto;
 	width: 400px;
+	font-family: 'Cantarell', sans-serif;
+}
+h2{
+	font-size: 18px;
+	font-family: 'Cantarell', sans-serif;
+	font-weight: bold;
+}
+h3{
+	padding-top: 10px;
+	color: #4B0082
+}
+p{
+	font-size: 14px;
+}
+.contact-info{
+	font-family: 'Cantarell', sans-serif;
+	padding-top: 25px;
+}
+.contact-info ul{
+	list-style-type: none;
+	text-align: center;
+	
+}
+.contact-info li{	
+	display: inline;
+	padding-right: 40px;
 }
